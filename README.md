@@ -20,7 +20,7 @@ Foi utilizada a Api Github Users: https://api.github.com/users que retorna dados
   print( f' Nome completo: {data["name"]}')
   O valor da chave "name" do dicionário data é acessado e exibido na tela, junto com a mensagem "Nome completo:".
 
- #Resultados:
+ # Resultados:
 
 O código foi escrito com sucesso e é capaz de:
 
@@ -29,11 +29,11 @@ Compor a URL da API GitHub Users com o nome do usuário digitado.
 Realizar uma requisição GET à API e armazenar a resposta.
 Extrair os dados da resposta em formato JSON.
 Exibir o nome completo do usuário na tela.
-#Limitações:
+# Limitações:
 
 O código exibe apenas o nome completo do usuário. Outras informações do dicionário data, como biografia, repositórios e seguidores, não são exibidas.
 
-#Melhorias:
+# Melhorias:
 
 Exibir outras informações do dicionário data, como biografia, repositórios e seguidores.
 Tratar erros de requisição à API.
