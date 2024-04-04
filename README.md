@@ -24,17 +24,17 @@ Foi utilizada a Api Github Users: https://api.github.com/users que retorna dados
 
 O código foi escrito com sucesso e é capaz de:
 
-Solicitar ao usuário o nome do usuário que deseja consultar.
-Compor a URL da API GitHub Users com o nome do usuário digitado.
-Realizar uma requisição GET à API e armazenar a resposta.
-Extrair os dados da resposta em formato JSON.
-Exibir o nome completo do usuário na tela.
+- Solicitar ao usuário o nome do usuário que deseja consultar.
+- Compor a URL da API GitHub Users com o nome do usuário digitado.
+- Realizar uma requisição GET à API e armazenar a resposta.
+- Extrair os dados da resposta em formato JSON.
+- Exibir o nome completo do usuário na tela.
 # Limitações:
 
 O código exibe apenas o nome completo do usuário. Outras informações do dicionário data, como biografia, repositórios e seguidores, não são exibidas.
 
 # Melhorias:
 
-Exibir outras informações do dicionário data, como biografia, repositórios e seguidores.
-Tratar erros de requisição à API.
-Implementar funcionalidades adicionais, como a busca por repositórios e seguidores do usuário.
+- Exibir outras informações do dicionário data, como biografia, repositórios e seguidores.
+- Tratar erros de requisição à API.
+- Implementar funcionalidades adicionais, como a busca por repositórios e seguidores do usuário.
